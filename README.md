@@ -19,7 +19,7 @@ I am a beginner developer from Russia <img src="https://media.giphy.com/media/WU
 
 :telescope: — Currently exploring different areas of development and working with HTML, CSS, Python, 1C and SQL.
 
-:seedling: — I have a basic to intermediate understanding of the technologies I use and constantly work on improving my skills.
+:seedling: — I have a basic understanding of the technologies I use and constantly work on improving my skills.
 
 :computer: — I enjoy learning new technologies, solving problems and working on real projects.
 
