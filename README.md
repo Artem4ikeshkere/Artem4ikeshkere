@@ -15,11 +15,15 @@
 
 ### :japanese_ogre: About Me :
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a beginner developer from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , actively looking for my place in the IT industry.
 
-- :telescope: - I’m working on frontend and backend for building web applications and desktop applications.
+:telescope: — Currently exploring different areas of development and working with HTML, CSS, Python, 1C and SQL.
 
-- :seedling: - I mainly study golang, python, sql. Well, everything that is useful at least once in work.
+:seedling: — I have a basic to intermediate understanding of the technologies I use and constantly work on improving my skills.
+
+:computer: — I enjoy learning new technologies, solving problems and working on real projects.
+
+:rocket: — My goal is to gain practical experience, find the direction that suits me best and grow as a developer.
 
 - :mailbox: - How to reach me:
   [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/Miningitemae)
