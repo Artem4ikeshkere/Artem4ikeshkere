@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF1bGF0ZjlweHh3bWszemh3YjBkb3hiNXA5azBqanNsZWVsazJkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHUONhmbo448/giphy.gif](https://media1.tenor.com/m/J3eD8hsuIRoAAAAd/snub-nat-geo-wild.gif)" width="500"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF1bGF0ZjlweHh3bWszemh3YjBkb3hiNXA5azBqanNsZWVsazJkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHUONhmbo448/giphy.gif](https://media1.tenor.com/m/J3eD8hsuIRoAAAAd/snub-nat-geo-wild.gif]" width="500"/>
 </div>
 
 <div id="badges" align="center">
