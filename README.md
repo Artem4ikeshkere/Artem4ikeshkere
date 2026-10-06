@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/J3eD8hsuIRoAAAAd/snub-nat-geo-wild.gif" width="500"/>
+  <img src="https://media1.tenor.com/m/rIC8K8duH6oAAAAC/polar-bear-bunny-chris-and-bill-polar-bear.gif" width="500"/>
 </div>
 
 <div id="badges" align="center">
