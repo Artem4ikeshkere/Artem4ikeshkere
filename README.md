@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FYcmZFH_2y-0AAAAC%2Fpolar-bear-dance.gif&lr=213&p=1&pos=4&rpt=simage&search_client=unknown&text=%D0%B3%D0%B8%D1%84%D0%BA%D0%B0%20%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C%204k" width="500"/>
+  <img src="https://media1.tenor.com/m/J3eD8hsuIRoAAAAd/snub-nat-geo-wild.gif" width="500"/>
 </div>
 
 <div id="badges" align="center">
