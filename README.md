@@ -23,15 +23,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :mailbox: - How to reach me:
   [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/Miningitemae)
-  [![Email Badge](https://img.shields.io/badge/Mail.Ru-005FF9?logo=maildotru&logoColor=fff&style=flat-square)](https://mailto:andryafpooo@mail.ru)
-  [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discordapp.com/users/405359839523373066/)
-
----
-
-### :fire: My Stats :
-
-<img src="https://komarev.com/ghpvc/?username=DoktorAssering&color=blueviolet" alt=""/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DoktorAssering&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discordapp.com/users/579010181984157705/)
 
 ---
